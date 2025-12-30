@@ -1,16 +1,12 @@
-# Bullock-Resume
-Resume for Whitney Bullock  Sr. Global Logistics and Sales Operations Manager, MS Grad Student, Mentor and Coach 
-
-
-# Whitney A. Bullock
+## Whitney A. Bullock
 Salt Lake City, UT | (801) 243-8042 | Whitney.Bullock24@gmail.com |  LinkedIn 
 
-# EDUCATION
+## EDUCATION
 University of Utah, David Eccles School of Business                                                                                                       Salt Lake City, UT
 Master of Science, Business Analytics	                                                                                                                  June 2026 
 Bachelor of Science, Marketing       	                                                                                                                  May 2013
 
-# SKILLS
+## SKILLS
 Databases/Big Data/ Data Visualization: Excel, Qlik, RStudio, Data Mining,  Process Control 
 Certifications: Six Sigma Green Belt, IATA Hazmat  
 Software Proficiency: SAP, TMC, Microsoft Office Suite, Python, SQL, Visio, Canva
@@ -20,9 +16,9 @@ Logistics & Supply Chain Management: Global Logistics Strategy, Freight Cost Opt
 Project Management & Leadership: Cross-Functional Team Leadership, Process Improvement, Change Management
 Data Analytics: Predictive Modeling, Statistical Analysis, Dashboard Design
 
-# EXPERIENCE 
+## EXPERIENCE 
 Varex Imaging                                                                                                                                             Salt Lake City, UT                                                                              
-## Sr. Manager Global Logistics and Sales Operations                                                                                                       December 2018   – present
+### Sr. Manager Global Logistics and Sales Operations                                                                                                       December 2018   – present
 •	Spearheaded the development and execution of a new global logistics strategy 
 •	Implemented global strategic objectives to reduce overall freight spend, improve margins, and achieve OTD KPIs
 •	Conduct market research on global trade routes for cost efficiencies to ensure competitive landscape
@@ -34,22 +30,22 @@ Varex Imaging                                                                   
 •	Saved 335K in standard cost annually by the redesign of packaging for cardiovascular global intercompany shipments 
 
 
-## Quality Assurance Manager                                                                                                                             August 2017 – November 2018 
+### Quality Assurance Manager                                                                                                                             August 2017 – November 2018 
 •	Analyze customer failure KPIs and yield rates to implement corrective action plans for non-conforming products
 •	Met financial objectives for COPF, annual budgets, and scheduling expenditures 
 •	Design data visualization dashboard to display quality KPIs and failure rates by customer and product family
 •	Experience collaborating with product quality, engineering, logistics and finance team to resolve complex claims 
 •	Conducted root cause analysis on non-conforming products, utilizing statistical tools to pinpoint underlying issues and prevent recurrence
 
-## Warranty Return Manager / Warranty Return Specialist                                                                                                  May 2009 – August 2017 
+### Warranty Return Manager / Warranty Return Specialist                                                                                                  May 2009 – August 2017 
 •	Expertise in managing warranty claims from initiation to resolution, ensuring compliance with terms and conditions 
 •	Proficient in processing and tracking warranty returns for credit, analysis, repair 
 •	Strong focus on customer satisfaction with experience in managing escalated warranty and return issues 
 •	Utilized process mapping knowledge to streamline warranty return process, reducing cycle time from 45 days to 15 days 
 
-# ACTIVITIES 
-## Women’s Impact Network – Founder and Chair                                                                                                            August 2015 – Present                                                                                                                                                  
+## ACTIVITIES 
+### Women’s Impact Network – Founder and Chair                                                                                                            August 2015 – Present                                                                                                                                               
 •	Mentor, train, and cultivate strong network of female professionals at Varex Imaging 
 
-## Little League Baseball / Softball Coach                                                                                                               March 2017 - 2025
+### Little League Baseball / Softball Coach                                                                                                               March 2017 - 2025
 •	Coach and mentor youth athletes, focusing on skill development, teamwork, and sportsmanship 
