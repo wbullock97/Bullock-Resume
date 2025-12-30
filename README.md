@@ -1,5 +1,5 @@
 ## Whitney A. Bullock
-Salt Lake City, UT | (801) 243-8042 | Whitney.Bullock24@gmail.com |  LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-bullock-47ab1225/)
+Salt Lake City, UT | (801) 243-8042 | Whitney.Bullock24@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-bullock-47ab1225/)
 
 
 ## EDUCATION
